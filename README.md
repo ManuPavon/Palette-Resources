@@ -24,4 +24,5 @@ Professional color tool from Adobe with advanced features for creating harmoniou
 4. Copy the HEX codes to implement in your visualization tools
 
 Remember that effective data visualization relies on thoughtful color selection.
-**I will be adding more resources if I get a new fav**
+
+#**I will be adding more resources if I get a new fav**
